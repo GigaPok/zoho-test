@@ -51,9 +51,9 @@
 
 @font-face {
     font-family: 'Helvetica Neue LT GEO';
-    src: url('../assets/fonts/HelveticaNeueLTGEO-35Thin.woff2') format('woff2'),
-        url('../assets/fonts/HelveticaNeueLTGEO-35Thin.woff') format('woff'),
-        url('../assets/fonts/HelveticaNeueLTGEO-35Thin.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-35Thin.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-35Thin.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-35Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
