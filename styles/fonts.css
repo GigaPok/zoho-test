@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'BPG Arial Caps';
-    src: url('../assets/fonts/bpg-arial-caps-webfont.woff2') format('woff2'),
-        url('../assets/fonts/bpg-arial-caps-webfont.woff') format('woff'),
-        url('../assets/fonts/bpg-arial-caps-webfont.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/bpg-arial-caps-webfont.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/bpg-arial-caps-webfont.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/bpg-arial-caps-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -10,9 +10,9 @@
 
 @font-face {
     font-family: 'BPG Arial';
-    src: url('../assets/fonts/bpg-arial-webfont.woff2') format('woff2'),
-        url('../assets/fonts/bpg-arial-webfont.woff') format('woff'),
-        url('../assets/fonts/bpg-arial-webfont.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/bpg-arial-webfont.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/bpg-arial-webfont.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/bpg-arial-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -21,9 +21,9 @@
 
 @font-face {
     font-family: 'Myriad Pro';
-    src: url('../assets/fonts/MyriadPro-Regular.woff2') format('woff2'),
-        url('../assets/fonts/MyriadPro-Regular.woff') format('woff'),
-        url('../assets/fonts/MyriadPro-Regular.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/MyriadPro-Regular.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/MyriadPro-Regular.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/MyriadPro-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -31,9 +31,9 @@
 
 @font-face {
     font-family: 'HelveticaNeueLTGEOW82-75Bd';
-    src: url('../assets/fonts/HelveticaNeueLTGEOW82-75Bd.woff2') format('woff2'),
-        url('../assets/fonts/HelveticaNeueLTGEOW82-75Bd.woff') format('woff'),
-        url('../assets/fonts/HelveticaNeueLTGEOW82-75Bd.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEOW82-75Bd.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEOW82-75Bd.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEOW82-75Bd.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -41,9 +41,9 @@
 
 @font-face {
     font-family: 'Helvetica Neue LT GEO';
-    src: url('../assets/fonts/HelveticaNeueLTGEO-55Roman.woff2') format('woff2'),
-        url('../assets/fonts/HelveticaNeueLTGEO-55Roman.woff') format('woff'),
-        url('../assets/fonts/HelveticaNeueLTGEO-55Roman.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-55Roman.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-55Roman.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-55Roman.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -61,9 +61,9 @@
 
 @font-face {
     font-family: 'Helvetica Neue LT GEO';
-    src: url('../assets/fonts/HelveticaNeueLTGEO-75Bold.woff2') format('woff2'),
-        url('../assets/fonts/HelveticaNeueLTGEO-75Bold.woff') format('woff'),
-        url('../assets/fonts/HelveticaNeueLTGEO-75Bold.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-75Bold.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-75Bold.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/HelveticaNeueLTGEO-75Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -71,9 +71,9 @@
 
 @font-face {
     font-family: 'Arial GEO';
-    src: url('../assets/fonts/ArialGEO.woff2') format('woff2'),
-        url('../assets/fonts/ArialGEO.woff') format('woff'),
-        url('../assets/fonts/ArialGEO.ttf') format('truetype');
+    src: url('https://gigapok.github.io/zoho-test/assets/fonts/ArialGEO.woff2') format('woff2'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/ArialGEO.woff') format('woff'),
+        url('https://gigapok.github.io/zoho-test/assets/fonts/ArialGEO.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
